@@ -1,0 +1,78 @@
+﻿  3dsMaxCurveConverter.cpp
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(419,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(425,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(431,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(494,32): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(495,39): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(496,54): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(497,41): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(500,41): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(519,32): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(520,32): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(521,53): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(552,41): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(555,41): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(569,32): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(570,32): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(571,54): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(600,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RMCLink.cpp
+  tinyxml2.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\3dsMaxCurveConverter.cpp(185): warning C4715: 'getControllerType': not all control paths return a value
+  All 459 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  3dsMaxCurveConverter.vcxproj -> C:\Users\mskovorodin\OneDrive\3dsMaxProject\Program\Program2\3dsMaxCurveConverter\x64\Release\3dsMaxCurveConverter.exe
