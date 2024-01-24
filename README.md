@@ -1,7 +1,8 @@
 # 3dsMax-Curve-Importer-RMC-Tools
 This tool streamlines the process of transferring curve data from 3dsMax into an RMC. Currently supports RMC200, RMC150, & RMC70 series of controllers.
 
-![iPhone_Mockup](https://github.com/Matthew-Skovorodin/3dsMax-Curve-Importer-RMC-Tools/assets/146593166/7ab1fe6b-0e27-48f3-b175-a66eb772650b)
+<img width="1144" alt="Screenshot 2024-01-24 at 1 50 04 PM" src="https://github.com/Matthew-Skovorodin/3dsMax-Curve-Importer-RMC-Tools/assets/146593166/6c2dbfe3-1455-4414-8412-395b828bea61">
+
 
 ## Resources
 3dsMaxCurveConverter.exe – Command line executable program that receives inputs: -f filepath, -m controller type, -i link parameter, -c connection type, -o variable table offset, -r variable table range
